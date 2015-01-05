@@ -1,13 +1,14 @@
-README
+usb\_snippets
+===
 
-'usb_snippets' repository contains USB-related stuff.
+USB-related stuff.
 
 Platform: Linux.
 License: See LICENSE file for details.
 
 Changelog:
 20121016: usbreset target added.
-- - - 
+
 
 How to build all targets:
 
